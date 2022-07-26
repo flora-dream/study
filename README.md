@@ -1,7 +1,2 @@
-# study
-### hellohuangjin
-<<<<<<< HEAD
-## 1111
-=======
-## woyebuzhidao
->>>>>>> feature1
+# vue2 study
+
