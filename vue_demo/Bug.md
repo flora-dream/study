@@ -1,0 +1,1 @@
+- setInterval()的this指向windows,在外部用变量that保存this或在内部采用箭头函数，箭头函数的this会指向上级。
