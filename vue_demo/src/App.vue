@@ -1,15 +1,19 @@
 <template>
-  <MyCharts />
+  <ThreeJs />
 </template>
 
 <script>
 
-import MyCharts from './components/MyCharts.vue'
+// import MyCharts from './components/MyCharts.vue'
+// import MyCharts2 from './components/MyCharts2.vue'
+import ThreeJs from './components/ThreeJs.vue'
 
 export default {
   name: 'App',
   components: {
-    MyCharts
+    // MyCharts,
+    // MyCharts2,
+    ThreeJs
   }
 }
 </script>
@@ -21,6 +25,6 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+
 }
 </style>

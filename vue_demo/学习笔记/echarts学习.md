@@ -472,6 +472,9 @@ myChart.getZr().on('click', function(event) {
 });
 ```
 
+## 服务端渲染 ECharts 图表
+- 需要缩短前端的渲染时间，保证第一时间显示图表 。需要在 Markdown, PDF 等不支持动态运行脚本的环境中嵌入图表
+
 
 
 
